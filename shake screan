@@ -1,0 +1,1 @@
+javascript:var quakeNode = document.createElement("style"); var appendingQuakeNode = document.body.appendChild(quakeNode); var quakeStart = quakeNode.innerHTML = "@import url(\"https://cerebraldatabank.neocities.org/cool_css.css\");"; var quakeStart = document.body.classList.add("gogo-shaky");
